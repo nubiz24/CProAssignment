@@ -1,0 +1,8 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+    "files.associations": {
+        "watering_logic.h": "c",
+        "stdio.h": "c",
+        "time.h": "c"
+    }
+}
