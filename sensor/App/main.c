@@ -1,8 +1,8 @@
-#include "../include/config.h"
-#include "../include/sensors.h"
-#include "../include/actuators.h"
-#include "../include/buttons.h"
-#include "../include/watering_logic.h"
+#include "../Config/config.h"
+#include "../Sensors/sensors.h"
+#include "../Actuators/actuators.h"
+#include "../Buttons/buttons.h"
+#include "../Watering/watering_logic.h"
 #include <stdio.h>
 #include <time.h>
 #include <unistd.h>

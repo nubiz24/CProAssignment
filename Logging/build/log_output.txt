@@ -1,0 +1,5 @@
+[2025-08-12 14:09:59] [INFO] [App/main.c:11] - Application started
+[2025-08-12 14:09:59] [WARNING] [App/main.c:12] - Low memory warning
+[2025-08-12 14:09:59] [ERROR] [App/main.c:13] - Failed to allocate memory
+[2025-08-12 14:09:59] [DEBUG] [App/main.c:14] - This is a debug message
+[2025-08-12 14:09:59] [CRITICAL] [App/main.c:19] - System critical failure
