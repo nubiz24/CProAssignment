@@ -36,5 +36,6 @@ int main()
         usleep(500 * 1000); // 500ms delay
     }
 
+    printf("Hệ thống đã thoát.\n");
     return 0;
 }

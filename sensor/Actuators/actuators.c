@@ -39,7 +39,7 @@ void update_led_status()
         printf("LED: Vàng (Đang tưới)\n");
         break;
     case LED_LOW_MOISTURE_ALERT:
-        printf("LED: Đỏ (Độ ẩm thấp)\n");
+        printf("LED: Cam (Độ ẩm thấp)\n");
         break;
     case LED_ERROR:
         printf("LED: Đỏ nhấp nháy (Lỗi)\n");
